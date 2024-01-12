@@ -1,0 +1,31 @@
+@import url(reset.css);
+@import url(common.css);
+
+@import url(style/header.css);
+@import url(style/sec01_mainpage.css);
+@import url(style/sec02_new.css);
+@import url(style/sec03_best.css);
+@import url(style/sec04_vedio.css);
+@import url(style/sec05_news.css);
+@import url(style/footer.css);
+
+
+
+/* mo ver */
+/* @import url(style/mo_style.css); */
+
+
+
+
+  /* web ver */
+.wrap{
+  position: relative;
+}
+
+
+
+
+
+
+
+
